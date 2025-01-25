@@ -1,6 +1,3 @@
-Berikut ekspansi detail untuk rencana pembelajaran Maret dengan diagram MermaidJS, pola kode, dan praktik terbaik:
-
----
 
 ### **Maret: Aplikasi Hotel - Foundation**  
 #### **Minggu 1: Setup Proyek & Autentikasi**  
