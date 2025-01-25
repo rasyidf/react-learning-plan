@@ -1,1 +1,2 @@
-# react-learning-plan
+# Learning with BWDX
+ 
